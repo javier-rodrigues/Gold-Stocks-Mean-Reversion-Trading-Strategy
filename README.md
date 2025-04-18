@@ -1,2 +1,2 @@
 # Gold-Stocks-Mean-Reversion-Trading-Strategy
-Implementing a mean reversion strategy on the GDXJ with a linear, ALSTM and rules based approach.
+Implementing various trading strategies primarily centered around mean-reversion on the GDXJ with a linear, ALSTM and rules-based approach.
