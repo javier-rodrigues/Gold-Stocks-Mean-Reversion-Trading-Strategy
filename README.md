@@ -13,13 +13,15 @@ So I asked: if the old logic no longer works, what does? This project explores w
 
 The results so far show clear differences across models and regimes. Some models outperform benchmarks over longer windows but struggle post-2020 — a period marked by stimulus-driven macro shifts and strong spot gold performance that wasn’t mirrored in equities. This divergence reinforces our core thesis: gold equity pricing is no longer just a function of gold prices. By layering behavioral analysis, timing signals, and dynamic position sizing, I aim to construct trading strategies that outperform a long-term buy-and-hold approach with the GDXJ and GLD.
 
-## Models Accuracy and Cross Validation:
+## Results
+
+### Models Accuracy and Cross Validation:
 
 ![image](https://github.com/user-attachments/assets/33df6fc8-aeaf-4519-93e8-0c1155978a62)
 
 ![image](https://github.com/user-attachments/assets/1036cc4b-2c0a-48b2-aa5d-88dc263c57e0)
 
-## Historical Backtest Results:
+### Historical Backtest Results:
 
 ![image](https://github.com/user-attachments/assets/6e9f9db7-4e61-4be8-a54f-9340b853f9aa)
 
